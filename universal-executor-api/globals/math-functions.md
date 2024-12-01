@@ -1,5 +1,5 @@
 ---
-description: TODO
+description: Math Globals
 ---
 
 # ➗ Math functions

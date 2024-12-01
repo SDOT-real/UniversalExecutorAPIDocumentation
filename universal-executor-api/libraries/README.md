@@ -1,5 +1,5 @@
 ---
-description: Libraries of the environment.
+description: Libraries of the executor environment.
 cover: ../../.gitbook/assets/header.png
 coverY: 0
 layout:

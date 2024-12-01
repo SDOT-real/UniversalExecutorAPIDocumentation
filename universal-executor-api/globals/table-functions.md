@@ -1,6 +1,6 @@
 ---
-description: TODO
+description: Table and Userdata Globals
 ---
 
-# 📥 Table Functions
+# 📥 Table
 

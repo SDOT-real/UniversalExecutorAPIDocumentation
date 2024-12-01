@@ -1,5 +1,5 @@
 ---
-description: TODO
+description: Input Globals
 ---
 
 # ⌨️ Input Functions

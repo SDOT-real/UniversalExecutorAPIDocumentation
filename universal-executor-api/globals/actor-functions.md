@@ -1,6 +1,6 @@
 ---
-description: TODO
+description: LuaState Globals
 ---
 
-# 🌙 Actor Functions
+# 🌙 Actor
 

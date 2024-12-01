@@ -1,5 +1,5 @@
 ---
-description: LuaState environment-related globals
+description: LuaState Environment and DataModel Globals
 cover: ../../.gitbook/assets/header.png
 coverY: 0
 ---

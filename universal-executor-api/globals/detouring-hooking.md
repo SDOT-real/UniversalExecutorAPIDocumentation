@@ -1,5 +1,5 @@
 ---
-description: Detouring-related globals in the environment
+description: Detouring Globals
 cover: ../../.gitbook/assets/header.png
 coverY: 0
 layout:

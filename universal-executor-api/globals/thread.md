@@ -1,3 +1,7 @@
+---
+description: Thread (Coroutine) Globals
+---
+
 # 🧵 Thread
 
 ```ts

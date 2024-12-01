@@ -1,5 +1,5 @@
 ---
-description: TODO
+description: TODO (in need of personal practice and experienced people)
 cover: ../.gitbook/assets/header.png
 coverY: 0
 layout:
@@ -18,5 +18,5 @@ layout:
     visible: false
 ---
 
-# 🥚 Obfuscation and Deobfuscation
+# 🥚 Protecting and Devirtualizing Code
 

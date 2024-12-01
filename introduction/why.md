@@ -20,11 +20,11 @@ layout:
 
 # ❓ Why?
 
-After <mark style="color:red;">Roblox</mark> bought <mark style="color:green;">Byfron Technologies</mark> and introduced <mark style="color:purple;">Hyperion</mark>, the betrayal of <mark style="color:blue;">Synapse Softworks</mark> and the downfall of <mark style="color:red;">Roblox</mark> exploiting, ALL executors left the scene, some temporary, some permanently. This created a power vacuum, leading to the creation of new executors.
+After <mark style="color:red;">Roblox</mark> purchased <mark style="color:green;">Byfron Technologies</mark> and introduced <mark style="color:purple;">Hyperion</mark>, the betrayal of <mark style="color:blue;">Synapse Softworks</mark> and the downfall of <mark style="color:red;">Roblox</mark> exploiting, ALL executors left the scene, some temporary, some permanently. This created a power vacuum, leading to the creation of new executors.
 
-Sadly, some executor developers decided not to create their own documentation and instead rely on the documentations of their ancestors. Some documentations are _poorly_ executed, some are incomplete.
+Sadly, some developers decided not to create their own documentation and instead rely on the documentations of their ancestors. Some documentations are _poorly_ written, some are incomplete. This is a disaster, in my opinion.
 
-I, <mark style="color:red;">S.DOT</mark>, decided to create a beginner-friendly documentation with correct types, examples and listed limitations of functions/libraries.
+I, <mark style="color:red;">S.DOT</mark>, decided to create a beginner-friendly documentation with correctly typed functions, examples and listed limitations/warnings for functions/libraries. I'm also planning to add tutorials on various subjects and the history of exploiting.
 
 
 

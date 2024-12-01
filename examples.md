@@ -1,5 +1,5 @@
 ---
-description: TODO
+description: A list of examples.
 cover: .gitbook/assets/header.png
 coverY: 0
 layout:
@@ -22,7 +22,7 @@ layout:
 
 ## hookfunction/clonefunction/restorefunction example
 
-{% code overflow="wrap" lineNumbers="true" fullWidth="true" %}
+{% code lineNumbers="true" fullWidth="true" %}
 ```lua
 -- our target that we want to hook
 local function targetFunction(name: string): string

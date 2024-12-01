@@ -1,5 +1,5 @@
 ---
-description: TODO
+description: A list of tools and executors for Roblox exploiting.
 cover: .gitbook/assets/header.png
 coverY: 0
 layout:

@@ -1,6 +1,6 @@
 ---
-description: TODO
+description: Signal and Connection Globals
 ---
 
-# 🎊 Signal Functions
+# 🎊 Signal
 
