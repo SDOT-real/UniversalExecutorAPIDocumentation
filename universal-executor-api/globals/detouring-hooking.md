@@ -251,3 +251,16 @@ function setstackhidden(stackIndex: number, hidden: boolean?): (boolean)
 `aliases: none!`
 
 #### Hides the function from the callstack and returns it's previous hidden state.&#x20;
+
+
+
+***
+
+
+
+## Classes
+
+{% content-ref url="../classes/protoproxy.md" %}
+[protoproxy.md](../classes/protoproxy.md)
+{% endcontent-ref %}
+

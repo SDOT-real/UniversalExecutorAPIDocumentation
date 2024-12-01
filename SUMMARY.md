@@ -33,6 +33,7 @@
     * [🧦 WebsocketClient](universal-executor-api/classes/websocketclient.md)
     * [📭 ProtoProxy](universal-executor-api/classes/protoproxy.md)
     * [⛓️ LuaStateProxy](universal-executor-api/classes/luastateproxy.md)
+  * [⏮️ Enums](universal-executor-api/enums.md)
 * [📜 Exploiting History](exploiting-history.md)
 * [🌀 Change Logs](change-logs.md)
 * [☑️ Credits](credits.md)
