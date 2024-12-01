@@ -21,7 +21,7 @@ layout:
     visible: false
 ---
 
-# ❕ Disclaimer!
+# ❗ Disclaimer
 
 **I am by no means a professional!** I'm not even an old-gen. I started exploiting in between 2018 and 2020. Since then I started exploiting on Roblox! I'm still learning! Trust me, 6 years of experience is nothing.
 

@@ -3,7 +3,7 @@
 * [👋 Introduction](README.md)
   * [❓ Why?](introduction/why.md)
   * [🥅 Goals](introduction/goals.md)
-  * [❕ Disclaimer!](introduction/disclaimer.md)
+  * [❗ Disclaimer](introduction/disclaimer.md)
 * [🧰 Tool/Software List](tool-software-list.md)
 * [🏫 Tutorials](tutorials/README.md)
   * [📜 Scripting](tutorials/scripting.md)
