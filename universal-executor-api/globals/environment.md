@@ -122,7 +122,7 @@ function getreg(): ({thread | {} | ()->() | number})
 
 `aliases: debug.getregistry`
 
-#### Returns the Luau registry. Useful for acquiring threads (coroutines) and some functions, tables.
+#### Returns the [Luau registry](https://www.lua.org/manual/5.1/manual.html#3.5). Useful for acquiring threads (coroutines) and some functions, tables.
 
 #### ❗ Warning/Limitations
 
