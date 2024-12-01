@@ -1,5 +1,5 @@
 ---
-description: 'Here are the goals of the project:'
+description: The Goals of This Project
 cover: ../.gitbook/assets/header.png
 coverY: 0
 layout:

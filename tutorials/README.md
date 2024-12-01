@@ -1,5 +1,5 @@
 ---
-description: A list of tutorials on different subjects, related to Roblox exploiting.
+description: List of Tutorials on Different Subjects Related to Roblox Exploiting
 cover: ../.gitbook/assets/header.png
 coverY: 0
 layout:

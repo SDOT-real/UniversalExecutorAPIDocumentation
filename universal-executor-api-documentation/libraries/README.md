@@ -1,6 +1,6 @@
 ---
-description: Enums of the executor environment
-cover: ../.gitbook/assets/header.png
+description: Libraries of the Executor Environments
+cover: ../../.gitbook/assets/header.png
 coverY: 0
 layout:
   cover:
@@ -18,5 +18,5 @@ layout:
     visible: false
 ---
 
-# ⏮️ Enums
+# 📚 Libraries
 

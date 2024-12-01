@@ -1,5 +1,5 @@
 ---
-description: Libraries of the executor environment.
+description: Classes of the Executor Environments
 cover: ../../.gitbook/assets/header.png
 coverY: 0
 layout:
@@ -18,5 +18,5 @@ layout:
     visible: false
 ---
 
-# 📚 Libraries
+# 📦 Classes
 

@@ -1,5 +1,5 @@
 ---
-description: A list of tools and executors for Roblox exploiting.
+description: List of Tools and Executors for Roblox Exploiting
 cover: .gitbook/assets/header.png
 coverY: 0
 layout:

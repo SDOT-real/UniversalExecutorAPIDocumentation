@@ -1,5 +1,5 @@
 ---
-description: Warnings, important information, etc.
+description: Warnings, Important Information and More
 cover: ../.gitbook/assets/header.png
 coverY: 0
 layout:

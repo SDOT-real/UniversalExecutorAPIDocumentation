@@ -1,5 +1,5 @@
 ---
-description: 'Here are the reasons why it exists in the first place:'
+description: The Reasons Why This Resource Even Exists
 cover: ../.gitbook/assets/header.png
 coverY: 0
 layout:
@@ -24,7 +24,7 @@ After <mark style="color:red;">Roblox</mark> purchased <mark style="color:green;
 
 Sadly, some developers decided not to create their own documentation and instead rely on the documentations of their ancestors. Some documentations are _poorly_ written, some are incomplete. This is a disaster, in my opinion.
 
-I, <mark style="color:red;">S.DOT</mark>, decided to create a beginner-friendly documentation with correctly typed functions, examples and listed limitations/warnings for functions/libraries. I'm also planning to add tutorials on various subjects and the history of exploiting.
+I, <mark style="color:red;">S.DOT</mark>, decided to create a beginner-friendly resource with correctly typed functions, examples and listed limitations/warnings for functions/libraries. I'm also planning to add tutorials on various subjects and the history of exploiting.
 
 
 

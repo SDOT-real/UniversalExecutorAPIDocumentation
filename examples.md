@@ -1,5 +1,5 @@
 ---
-description: A list of examples.
+description: List of Code Examples
 cover: .gitbook/assets/header.png
 coverY: 0
 layout:

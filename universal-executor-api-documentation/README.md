@@ -1,6 +1,8 @@
 ---
-description: Globals of the executor environment.
-cover: ../../.gitbook/assets/header.png
+description: >-
+  Universal Executor API Documentation to Provide More Information About the
+  Features of Executor APIs
+cover: ../.gitbook/assets/header.png
 coverY: 0
 layout:
   cover:
@@ -18,5 +20,5 @@ layout:
     visible: false
 ---
 
-# 🌎 Globals
+# ⚙️ Universal Executor API Documentation
 

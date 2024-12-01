@@ -1,5 +1,5 @@
 ---
-description: Universal API for executors to provide more information about the functions.
+description: Enums of the Executor Environments
 cover: ../.gitbook/assets/header.png
 coverY: 0
 layout:
@@ -18,6 +18,5 @@ layout:
     visible: false
 ---
 
-# ⚙️ Universal Executor API
+# ⏮️ Enums
 
-For type syntax reference, check out the official [typechecking](https://luau.org/typecheck) documentation.

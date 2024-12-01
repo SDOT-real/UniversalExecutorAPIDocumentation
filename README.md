@@ -43,23 +43,17 @@ _(<mark style="color:red;">U:RE:Resources</mark> for short)_
 [tutorials](tutorials/)
 {% endcontent-ref %}
 
-{% content-ref url="universal-executor-api/globals/" %}
-[globals](universal-executor-api/globals/)
-{% endcontent-ref %}
-
-{% content-ref url="universal-executor-api/libraries/" %}
-[libraries](universal-executor-api/libraries/)
-{% endcontent-ref %}
-
-{% content-ref url="universal-executor-api/classes/" %}
-[classes](universal-executor-api/classes/)
-{% endcontent-ref %}
-
-
-
 {% content-ref url="examples.md" %}
 [examples.md](examples.md)
 {% endcontent-ref %}
+
+{% content-ref url="universal-executor-api-documentation/" %}
+[universal-executor-api-documentation](universal-executor-api-documentation/)
+{% endcontent-ref %}
+
+
+
+
 
 {% content-ref url="exploiting-history.md" %}
 [exploiting-history.md](exploiting-history.md)
