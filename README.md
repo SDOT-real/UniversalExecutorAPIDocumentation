@@ -21,7 +21,7 @@ layout:
 
 ## Welcome to the <mark style="color:red;">Universal Roblox Exploiting Resources</mark>!
 
-_(<mark style="color:red;">URE Resources</mark> for short)_
+_(<mark style="color:red;">U:RE:Resources</mark> for short)_
 
 
 
