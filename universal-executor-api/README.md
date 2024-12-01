@@ -21,19 +21,3 @@ layout:
 # ⚙️ Universal Executor API
 
 For type syntax reference, check out the official [typechecking](https://luau.org/typecheck) documentation.
-
-{% content-ref url="globals/" %}
-[globals](globals/)
-{% endcontent-ref %}
-
-{% content-ref url="libraries/" %}
-[libraries](libraries/)
-{% endcontent-ref %}
-
-{% content-ref url="classes/" %}
-[classes](classes/)
-{% endcontent-ref %}
-
-{% content-ref url="enums.md" %}
-[enums.md](enums.md)
-{% endcontent-ref %}

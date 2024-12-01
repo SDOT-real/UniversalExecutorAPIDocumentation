@@ -20,22 +20,3 @@ layout:
 
 # 📚 Libraries
 
-{% content-ref url="debug-library.md" %}
-[debug-library.md](debug-library.md)
-{% endcontent-ref %}
-
-{% content-ref url="drawing-library.md" %}
-[drawing-library.md](drawing-library.md)
-{% endcontent-ref %}
-
-{% content-ref url="crypt-library.md" %}
-[crypt-library.md](crypt-library.md)
-{% endcontent-ref %}
-
-{% content-ref url="cache-library.md" %}
-[cache-library.md](cache-library.md)
-{% endcontent-ref %}
-
-{% content-ref url="net-library.md" %}
-[net-library.md](net-library.md)
-{% endcontent-ref %}
