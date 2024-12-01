@@ -1,0 +1,6 @@
+# 🧵 Thread
+
+```ts
+getscriptthread
+isexecutorthread
+```

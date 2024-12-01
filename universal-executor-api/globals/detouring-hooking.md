@@ -1,5 +1,5 @@
 ---
-description: Detouring/hooking related globals in the environment.
+description: Detouring-related globals in the environment
 cover: ../../.gitbook/assets/header.png
 coverY: 0
 layout:
@@ -18,7 +18,7 @@ layout:
     visible: true
 ---
 
-# ↩️ Detouring/Hooking
+# ↩️ Detouring
 
 ## hookfunction
 
@@ -39,11 +39,13 @@ function hookfunction<Original>(toHook: Original & ()->(), hook: ()->(), hookFil
 
 #### ❗ Warning/Limitations
 
-Instead of using this function for metamethod/proto/signal hooking, , look at functions, designed for the corresponding data type!
+Instead of using this function for metamethod/proto/signal hooking, look at functions, designed for the corresponding data type!
 
 The original returned function will be a clone of the original function. Comparison will return `false`.
 
 Be careful not to call the function you hook in the hook itself! It will result in a recursion. Call the original instead.
+
+Be careful when accessing the arguments! They may contain metamethods that can detect you! Use raw functions (rawset, rawequals, etc.) for safety and `__iter`-proof methods of looping through tables. Be sure to deep-clone data you save with cloneref and other methods.
 
 ***
 
@@ -54,7 +56,7 @@ Be careful not to call the function you hook in the hook itself! It will result 
 {% code overflow="wrap" lineNumbers="true" fullWidth="false" %}
 ```lua
 function hookmetamethod<Original>(toHook: userdata | {}, metamethod: string, hook: ()->(), argGuard: boolean?, hookFilter: FilterBase?): (Original & ()->())
--- // toHook <userdata | {}>: function to hook
+-- // toHook <userdata OR table>: function to hook
 -- // metamethod <string>: metamethod string
 -- // hook <function>: function to hook with
 -- // argGuard <boolean> <default: false> <optional?>: the hook will only be called if the metamethod call has valid arguments, protecting from detections
@@ -73,6 +75,8 @@ function hookmetamethod<Original>(toHook: userdata | {}, metamethod: string, hoo
 The returned function will be a clone of the original function. Comparison will return `false`.
 
 Be careful not to call the function you hook in the hook itself! It will result in a recursion. Call the original instead.
+
+Be careful when accessing the arguments! They may contain metamethods that can detect you! Use raw functions (rawset, rawequals, etc.) for safety and `__iter`-proof methods of looping through tables. Be sure to deep-clone data you save with cloneref and other methods.
 
 ***
 
@@ -97,6 +101,8 @@ function hookproto(toHook: ProtoProxy, hook: ()->()): (nil)
 #### ❗ Warning/Limitations
 
 Be careful not to call the function you hook in the hook itself! It will result in a recursion. Call the original instead.
+
+Be careful when accessing the arguments! They may contain metamethods that can detect you! Use raw functions (rawset, rawequals, etc.) for safety and `__iter`-proof methods of looping through tables. Be sure to deep-clone data you save with cloneref and other methods.
 
 ***
 
