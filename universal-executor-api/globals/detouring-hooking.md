@@ -70,9 +70,7 @@ function hookmetamethod<Original>(toHook: userdata | {}, metamethod: string, hoo
 
 #### ❗ Warning/Limitations
 
-Instead of using this function for function/proto/signal hooking, look at functions, designed for the corresponding data type!
-
-The original returned function will be a clone of the original function. Comparison will return `false`.
+The returned function will be a clone of the original function. Comparison will return `false`.
 
 Be careful not to call the function you hook in the hook itself! It will result in a recursion. Call the original instead.
 
