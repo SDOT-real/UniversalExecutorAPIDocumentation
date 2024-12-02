@@ -1,5 +1,5 @@
 ---
-description: Thread (Coroutine) Globals
+description: Globals for Coroutines (threads)
 ---
 
 # 🧵 Thread

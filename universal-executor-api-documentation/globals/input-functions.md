@@ -1,6 +1,6 @@
 ---
-description: Input Globals
+description: Keyboard/Mouse Input-Related Globals
 ---
 
-# ⌨️ Input Functions
+# ⌨️ Input
 

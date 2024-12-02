@@ -1,6 +1,6 @@
 ---
-description: Math Globals
+description: Math-Related Globals
 ---
 
-# ➗ Math functions
+# ➗ Math
 

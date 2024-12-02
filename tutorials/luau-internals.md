@@ -1,5 +1,5 @@
 ---
-description: TODO (in need of experienced people, I have only the basic knowledge)
+description: TODO
 cover: ../.gitbook/assets/header.png
 coverY: 0
 layout:

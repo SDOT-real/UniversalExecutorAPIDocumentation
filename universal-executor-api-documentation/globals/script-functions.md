@@ -1,5 +1,5 @@
 ---
-description: LuaSourceContainer Globals
+description: Globals for LuaSourceContainers
 cover: ../../.gitbook/assets/header.png
 coverY: 0
 ---

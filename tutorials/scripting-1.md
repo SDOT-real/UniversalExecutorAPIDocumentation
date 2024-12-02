@@ -18,6 +18,6 @@ layout:
     visible: false
 ---
 
-# 👨 Complete Tutorial for Beginners
+# 📜 Better Scripting Workspace and Style
 
-(from skid to elite)
+As a temporary resource, I'll link this [GitHub repository](https://github.com/Stefanuk12/learning-roblox-exploiting). All credits go to [Stefanuk12](https://v3rm.net/members/stefanuk12.3744/).

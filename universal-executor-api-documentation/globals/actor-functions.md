@@ -1,5 +1,5 @@
 ---
-description: LuaState Globals
+description: Globals for Actors and Their LuaStates
 ---
 
 # 🌙 Actor

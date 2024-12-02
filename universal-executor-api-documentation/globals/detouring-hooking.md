@@ -1,5 +1,5 @@
 ---
-description: Detouring Globals
+description: Every Global That is Related to Hooking/Detouring
 cover: ../../.gitbook/assets/header.png
 coverY: 0
 layout:
