@@ -1,15 +1,13 @@
 ---
-description: A wrapper around the internal structure that describes a Lua function.
+description: Wrapper Around the Internal Structure of Luau Proto
+cover: ../../.gitbook/assets/header.png
+coverY: 0
 ---
 
 # 📭 ProtoProxy
 
-### Properties <a href="#properties" id="properties"></a>
-
-***
+## Properties <a href="#properties" id="properties"></a>
 
 ```lua
-int CodeHash - the hash of the proto's code
+CodeHash: number -- // the identitifier of the proto
 ```
-
-A fingerprint of this proto's bytecode.

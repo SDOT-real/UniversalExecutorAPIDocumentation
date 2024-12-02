@@ -1,5 +1,5 @@
 ---
-description: Globals for LuaSourceContainers
+description: Globals for LuaSourceContainers and Functions
 cover: ../../.gitbook/assets/header.png
 coverY: 0
 ---
@@ -155,7 +155,7 @@ function getscriptbytecode(script: LuaSourceContainer): (string)
 ```
 {% endcode %}
 
-`aliases: getbytecode, dumpstring`
+`aliases: getbytecode, dumpbytecode, dumpstring`
 
 #### Returns the bytecode of the script, allowing disassembly of it.
 
@@ -174,7 +174,7 @@ function getfunctionbytecode(func: ()->()): (string)
 ```
 {% endcode %}
 
-`aliases: getbytecode, dumpstring`
+`aliases: getbytecode, dumpbytecode, dumpstring`
 
 #### Returns the bytecode of the function, allowing disassembly of it.
 
@@ -193,7 +193,7 @@ function getfunctionhash(func: ()->()): (string)
 ```
 {% endcode %}
 
-`aliases: gethash`
+`aliases: none!`
 
 #### Returns the hash of the function, allowing for function identification or change detection.
 
@@ -212,7 +212,7 @@ function getscripthash(script: LuaSourceContainer): (string)
 ```
 {% endcode %}
 
-`aliases: gethash`
+`aliases: none!`
 
 #### Returns the hash of the script, allowing for script identification or change detection.
 

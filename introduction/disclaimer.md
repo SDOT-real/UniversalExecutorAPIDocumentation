@@ -26,6 +26,8 @@ Some of the functions in the Universal Executor API don't exist in any executor 
 
 I'm trying to completely revolutionize executor APIs. Old functions should still be present, but there should be new ones too. I saw other documentations that completely change how the environment is structured, but my goal is to stimulate developers to add new features, not to completely change the scene. That way the executor won't be completely useless to basic users and there will be no `local isexecutorclosure = ...` cases.
 
+At the time of me writing this (12.02.2024), some limitations in the Universal Executor API are missing. Waiting for executor developers to consult me.
+
 **I am by no means a professional!** I'm not even an old-gen. I started exploiting in between 2018 and 2020. I'm still learning! Trust me, 6 years of experience is nothing.
 
 

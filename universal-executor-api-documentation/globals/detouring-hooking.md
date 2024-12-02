@@ -262,9 +262,13 @@ function setstackhidden(stackIndex: number, hidden: boolean?): (boolean)
 
 
 
-## Classes
+## Mentioned Classes
 
 {% content-ref url="../classes/protoproxy.md" %}
 [protoproxy.md](../classes/protoproxy.md)
+{% endcontent-ref %}
+
+{% content-ref url="../classes/filterbase/" %}
+[filterbase](../classes/filterbase/)
 {% endcontent-ref %}
 

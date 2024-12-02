@@ -141,20 +141,20 @@ Be careful when accessing the tables and userdatas! They may contain metamethods
 function getgc(includeUserdata: false?): ({()->()})
 -- // includeUserdata <boolean> <optional?>: should the table include tables and userdata?
 
--- // Returns <table>: table with all garbage collected functions
+-- // Returns <table>: table with all functions that are alive
 
 -- // OR
 
 function getgc(includeUserdata: true): ({{} | ()->() | userdata})
 -- // includeUserdata <boolean> <optional?>: should the table include tables and userdata?
 
--- // Returns <table>: table with all garbage collected items
+-- // Returns <table>: table with all tables and userdatas that are alive
 ```
 {% endcode %}
 
 `aliases: none!`
 
-#### Returns a table with all garbage collected functions. If provided with `includeTables = true`, the table will also contain tables and userdata.
+#### Returns a _weak_ table with all Luau objects that are alive. If provided with `includeTables = true`, the table will also contain tables and userdata. Useful for getting all functions and tables of the game.
 
 #### ❗ Warning/Limitations
 
@@ -189,7 +189,7 @@ function filtergc&#x3C;T>(type: string, options: {}, returnOne: true): (T)
 
 `aliases: none!`
 
-#### Filters the GC for value(s) with defined filters. More performant because of the implementation in C.
+#### Filters all alive Luau objects with filters. More performant that getgc() with filters written in Luau because of the implementation in C. Useful for getting all functions and tables of the game and filtering them.
 
 **Options for table type**:
 
